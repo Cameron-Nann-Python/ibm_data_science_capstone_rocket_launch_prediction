@@ -1,1 +1,1 @@
-# ibm_data_science_capstone_rocket_launch_prediction
+# IBM Data Science Capstone: Rocket Launch Prediction

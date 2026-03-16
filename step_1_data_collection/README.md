@@ -6,7 +6,7 @@ The object of this capstone project is to predict if the Falcon 9 first stage wi
 ## Objectives
 The first part of the data collection process will to be obtain data from a SpaceX API (provided by r/SpaceX API Docs). A series of helper functions will read the data from the API into lists (columns) that will be stored in a dictionary. The dictionary will then be converted into a pandas DataFrame. 
 
-The second part of the data collection process will to be clean the data. Missing values will be imputed with the mean and dates will be converted into readable formats. Columns irrelevant to the Falcon 9 will be dropped from the data frame
+The second part of the data collection process will to be clean the data. Missing values will be imputed with the mean and dates will be converted into readable formats. Columns irrelevant to the Falcon 9 will be dropped from the data frame. The final data frame will be saved as a csv for portability.
 
 ## Technologies Used
 Python libraries

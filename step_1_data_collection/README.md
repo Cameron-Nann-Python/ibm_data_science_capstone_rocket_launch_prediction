@@ -16,4 +16,5 @@ Python libraries
 - `datetime`: used for date format conversions
 
 ## Files Included
-- `jupyter-labs-spacex-data-collection-api.ipynb`: capstone lab notebook for data collection provided by IBM. 
+- `jupyter-labs-spacex-data-collection-api.ipynb`: capstone lab notebook for data collection provided by IBM.
+- `jupyter-labs-webscraping.ipynb`: capstone lab notebook for webscraping launch data on wikipedia provided by IBM.

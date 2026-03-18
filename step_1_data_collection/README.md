@@ -15,6 +15,12 @@ Python libraries
 - `numpy (2.4.2)`: used for array/matrix operations
 - `datetime`: used for date format conversions
 
+## Import Libraries
+Run the following code in a virtual environment:
+```
+pip install -r requirements.txt
+```
+
 ## Files Included
 - `jupyter-labs-spacex-data-collection-api.ipynb`: capstone lab notebook for data collection provided by IBM.
 - `jupyter-labs-webscraping.ipynb`: capstone lab notebook for webscraping launch data on wikipedia provided by IBM.

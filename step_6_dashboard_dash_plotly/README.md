@@ -1,4 +1,4 @@
-# Plotly Dash Rocket Launch Dashboard: SpaceX Falcon 8 First Stage Landing
+# Plotly Dash Rocket Launch Dashboard: SpaceX Falcon 9 First Stage Landing
 
 ![Overall Dashboard](https://github.com/Cameron-Nann-Python/ibm_data_science_capstone_rocket_launch_prediction/blob/main/step_6_dashboard_dash_plotly/screenshots/dashboard_desktop.png)
 

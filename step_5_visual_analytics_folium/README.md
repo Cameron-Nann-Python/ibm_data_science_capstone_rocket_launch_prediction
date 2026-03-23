@@ -32,7 +32,7 @@ The optimal launch site location parameters include:
 - access to a highway
 - far away from nearby cities
 
-## Technnologies Use
+## Technologies Used
 - Python 3.13
 - Folium
 - Pandas

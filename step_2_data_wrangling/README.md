@@ -12,7 +12,9 @@ The third exploration task was to calculate the number and occurrence of mission
 
 ## Technologies Used
 - Python 3.13
-
+- Pandas: matrix operations
+- Numpy: array operations
+  
 ## Import Libraries
 Run the following code in a virtual environment:
 ```

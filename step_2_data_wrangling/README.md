@@ -2,7 +2,7 @@
 
 ## Overview
 
-The data at this each stage needs to be explored to find trends and create labels for machine learning. The data contains successful and unsuccessful launches, which will be labeled with 1 and 0 respectively in a new column called "Class"
+The data at this each stage needs to be explored to find trends and create labels for machine learning. The data contains successful and unsuccessful launches, which will be labeled with 1 and 0 respectively in a new column called "Class".
 
 ## Objectives
 

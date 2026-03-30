@@ -34,7 +34,7 @@ The GridSearchCV object using a decision tree estimator achieved an accuracy of 
 ![Decision Tree Confusion Matrix](https://github.com/Cameron-Nann-Python/ibm_data_science_capstone_rocket_launch_prediction/blob/main/step_7_machine_learning/screenshots/tree_conf_mat.png)
 
 ### KNN
-The GridSearchCV object using a KNN estimator achieved an accuracy of 0.93 on the training data and 0.83 on the test data. For the 18 classes, the model successfully predicted 14 classes, but incorrectly 2 as false positives and 2 as false positives.
+The GridSearchCV object using a KNN estimator achieved an accuracy of 0.86 on the training data and 0.78 on the test data. For the 18 classes, the model successfully predicted 14 classes, but incorrectly 2 as false positives and 2 as false positives.
 
 ![KNN Confusion Matrix](https://github.com/Cameron-Nann-Python/ibm_data_science_capstone_rocket_launch_prediction/blob/main/step_7_machine_learning/screenshots/knn_conf_mat.png)
 

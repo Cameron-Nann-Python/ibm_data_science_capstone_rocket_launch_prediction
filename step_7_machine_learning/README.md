@@ -29,7 +29,7 @@ The GridSearchCV object using an SVM estimator achieved an accuracy of 0.86 on t
 ![SVM Confusion Matrix](https://github.com/Cameron-Nann-Python/ibm_data_science_capstone_rocket_launch_prediction/blob/main/step_7_machine_learning/screenshots/svm_conf_mat.png)
 
 ### Decision Tree
-The GridSearchCV object using a decision tree estimator achieved an accuracy of 0.93 on the training data and 0.83 on the test data. For the 18 classes, the model successfully predicted 15 classes, but incorrectly 3 as false positives, similar to the logistic regression model.
+The GridSearchCV object using a decision tree estimator achieved an accuracy of 0.9 on the training data and 0.83 on the test data. For the 18 classes, the model successfully predicted 15 classes, but incorrectly 3 as false positives, similar to the logistic regression model.
 
 ![Decision Tree Confusion Matrix](https://github.com/Cameron-Nann-Python/ibm_data_science_capstone_rocket_launch_prediction/blob/main/step_7_machine_learning/screenshots/tree_conf_mat.png)
 
